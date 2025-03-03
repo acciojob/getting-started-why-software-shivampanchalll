@@ -1,2 +1,16 @@
+<!DOCTYPE html>
 
-/* Your CSS Code here. */
+<html>
+
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="text">
+	Welcome to the world of Web development
+</div>
+
+</body>
+
+</html>
